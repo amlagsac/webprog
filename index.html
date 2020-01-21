@@ -14,7 +14,7 @@
 					<nav id="nav">
 						<a href="index.html">Home</a>
 						<a href="information.html">Information</a>
-						<a href="compare.html">Elements</a>
+						<a href="compare.html">Compare</a>
 						<a href="about_us.html">About Us</a>
 					</nav>
 				</div>
